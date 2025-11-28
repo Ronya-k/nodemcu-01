@@ -6,7 +6,7 @@ Ett blinkprogram är oftast det första man testar med Arduino eller ett microko
 I NodeMCU använder man en microkontroller som kallas för ESP8266. Vad detta är för något är ett energieffektivt chip som har inbyggd WiFi med olika "portar" som styrs via Arduino. Vid användningen av Node MCU finns det redan en inbyggd LED som i Arduino kallas för LED_BUILTIN. 
 
 ## Två viktiga funktioner
- 1. _Setup_ - Denna funktion körs endast en gång och det är när mikrokontrollen kommer igång. Det är i detta stade som man väljer som en port ska ingång eller utgång. 
+ 1. _Setup_ - Denna funktion körs endast en gång och det är när mikrokontrollen kommer igång. Det är i detta stadie som man väljer som en port ska ingång eller utgång. 
  3. _Loop_ - Lite som namnet så körs detta om och om igen, alltså i en loop. Det är i denna funktion som det faktiskt sker något, i detta fall tänder och släcker lampan så att den börjar blinka. 
 
 ## Portinitialisering
