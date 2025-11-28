@@ -19,4 +19,5 @@ Första steget i blinkprogrammet är att tala om för mikrokontrollern att pinne
 ## Det vi lärt oss!
  - ESP8266
  - Vad SETUP och LOOP innebär
+ - Initialisering av port
  - Hur man kodar ett blinkprogram 
