@@ -1,6 +1,6 @@
 # Blinkprogram - NodeMCU (ESP8266)
 ## Vad är ett blinkprogram?
-Ett blinkprogram är ett program mellan dator-microkontroller som får en indikator att blinka med bestämd intervall. Detta är oftast det man brukar testa först när man använder sig av Arduino eller ett microkontrollersystem.
+Ett blinkprogram är ett program mellan dator-microkontroller som får en indikator att blinka med bestämd intervall. Detta är oftast det man brukar testa först när man använder sig av Arduino. 
 
 <img width="170" height="170" alt="Skärmavbild 2025-12-04 kl  09 09 40" src="https://github.com/user-attachments/assets/c86e11a5-0301-49bf-9d5a-03e861a991fb" />
 
