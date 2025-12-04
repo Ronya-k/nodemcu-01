@@ -2,6 +2,10 @@
 ## Vad är ett blinkprogram?
 Ett blinkprogram är oftast det första man testar med Arduino eller ett microkontrollersystem samt går ut på att koden för att få en LED att blinka samt hur snabbt eller långsamt det sker. 
 
+
+<img width="200" height="200" alt="Skärmavbild 2025-12-04 kl  09 09 40" src="https://github.com/user-attachments/assets/c86e11a5-0301-49bf-9d5a-03e861a991fb" />
+
+
 ## Microprocessorn 
 I NodeMCU använder man en microkontroller som kallas för ESP8266. Vad detta är för något är ett energieffektivt chip som har inbyggd WiFi med olika "portar" som styrs via Arduino. Vid användningen av Node MCU finns det redan en inbyggd LED som i Arduino kallas för LED_BUILTIN. 
 
