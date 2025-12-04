@@ -3,7 +3,7 @@
 Ett blinkprogram är oftast det första man testar med Arduino eller ett microkontrollersystem samt går ut på att koden för att få en LED att blinka samt hur snabbt eller långsamt det sker. 
 
 
-<img width="100" height="100" alt="Skärmavbild 2025-12-04 kl  09 09 40" src="https://github.com/user-attachments/assets/c86e11a5-0301-49bf-9d5a-03e861a991fb" />
+<img width="170" height="170" alt="Skärmavbild 2025-12-04 kl  09 09 40" src="https://github.com/user-attachments/assets/c86e11a5-0301-49bf-9d5a-03e861a991fb" />
 
 
 ## Microprocessorn 
