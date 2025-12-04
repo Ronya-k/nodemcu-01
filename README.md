@@ -10,7 +10,7 @@ I NodeMCU - Plusivokit använder man en microkontroller som kallas för ESP8266.
 <img width="170" height="170" alt="Skärmavbild 2025-12-04 kl  09 18 20" src="https://github.com/user-attachments/assets/b42040d9-c057-44a4-a205-fd45af0b8e18" />
 
 ## Två viktiga funktioner
- 1. _Setup_ - Denna funktion körs endast en gång och det är när mikrokontrollen kommer igång. Det är i detta stadie som man väljer som en port ska ingång eller utgång. 
+ 1. _Setup_ - Denna funktion körs endast en gång och det är när mikrokontrollen kommer igång. Det är i detta stadie som man väljer om en port ska ingång eller utgång. 
  3. _Loop_ - Här körs programmet om och om igen. Det är i denna funktion som det faktiskt sker något, i detta fall tänder och släcker lampan så att den börjar blinka. 
 
 ## Portinitialisering
