@@ -24,8 +24,8 @@ Första steget i blinkprogrammet är att tala om för mikrokontrollern att pinne
 
 <img width="540" height="254" alt="Skärmavbild 2025-11-28 kl  11 56 34" src="https://github.com/user-attachments/assets/4cb846c4-7f64-4f36-b6de-d1a36e66401a" />
 
-## Det vi lärt oss!
+## Det vi lärt oss! 😄
  - ESP8266
- - Vad SETUP och LOOP innebär
- - Initialisering av port
+ - Vad SETUP och LOOP innebär    
+ - Initialisering av port 
  - Hur man kodar ett blinkprogram 
