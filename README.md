@@ -4,16 +4,14 @@ Ett blinkprogram är ett program mellan dator-microkontroller som får en indika
 
 <img width="170" height="170" alt="Skärmavbild 2025-12-04 kl  09 09 40" src="https://github.com/user-attachments/assets/c86e11a5-0301-49bf-9d5a-03e861a991fb" />
 
-
 ## Microprocessorn 
 I NodeMCU - Plusivokit använder man en microkontroller som kallas för ESP8266. Vad detta är för något är ett energieffektivt chip som har inbyggd WiFi med olika "portar" som styrs via Arduino. Vid användningen av Node MCU finns det redan en inbyggd LED som i Arduino kallas för LED_BUILTIN. 
 
 <img width="170" height="170" alt="Skärmavbild 2025-12-04 kl  09 18 20" src="https://github.com/user-attachments/assets/b42040d9-c057-44a4-a205-fd45af0b8e18" />
 
-
 ## Två viktiga funktioner
  1. _Setup_ - Denna funktion körs endast en gång och det är när mikrokontrollen kommer igång. Det är i detta stadie som man väljer som en port ska ingång eller utgång. 
- 3. _Loop_ - Lite som namnet så körs detta om och om igen, alltså i en loop. Det är i denna funktion som det faktiskt sker något, i detta fall tänder och släcker lampan så att den börjar blinka. 
+ 3. _Loop_ - Här körs programmet om och om igen. Det är i denna funktion som det faktiskt sker något, i detta fall tänder och släcker lampan så att den börjar blinka. 
 
 ## Portinitialisering
 Första steget i blinkprogrammet är att tala om för mikrokontrollern att pinnen LED:en tillhör är en utgång. Detta sker i "SETUP". 
