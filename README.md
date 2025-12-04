@@ -5,7 +5,7 @@ Ett blinkprogram är ett program mellan dator-microkontroller som får en indika
 <img width="170" height="170" alt="Skärmavbild 2025-12-04 kl  09 09 40" src="https://github.com/user-attachments/assets/c86e11a5-0301-49bf-9d5a-03e861a991fb" />
 
 ## Microprocessorn 
-I NodeMCU - Plusivokit använder man en microkontroller som kallas för ESP8266. Vad detta är för något är ett energieffektivt chip som har inbyggd WiFi med olika "portar" som styrs via Arduino. Vid användningen av Node MCU finns det redan en inbyggd LED som i Arduino kallas för LED_BUILTIN. 
+I NodeMCU - Plusivokit använder man en microkontroller som kallas för ESP8266. Det är ett energieffektivt chip som har inbyggd WiFi med olika "portar" som styrs via Arduino. Vid användningen av Node MCU finns det redan en inbyggd LED som i Arduino kallas för LED_BUILTIN. 
 
 <img width="170" height="170" alt="Skärmavbild 2025-12-04 kl  09 18 20" src="https://github.com/user-attachments/assets/b42040d9-c057-44a4-a205-fd45af0b8e18" />
 
